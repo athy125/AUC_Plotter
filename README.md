@@ -1,4 +1,4 @@
-# AUC Plotter 📊
+# AUC Plotter 
 
  This project focuses on visualizing the performance of machine learning classifiers by plotting ROC (Receiver Operating Characteristic) curves and calculating the AUC (Area Under the Curve) scores.
 
